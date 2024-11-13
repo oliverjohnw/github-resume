@@ -26,3 +26,23 @@ The steps to launching your own Github resume are listed below:
 
 6) Under the "Branch" section, change the branch to the *main* branch and click save.
 
+<br>
+
+Congratulations, you've launched your own Github resume! It will be available to view at *your_github_username.github.io/your_repository*
+
+## Tips
+
+Here are some important tips and things to remember:
+
+<br>
+
+***Accessing Your Page***
+
+If you forget what your page URL is, you can access it by clicking on the "Deployments" section on the main Github page. See below:
+
+![Pages Access](../img/page_access.png)
+
+
+***Making Changes***
+
+You may continously update your README.md to update your resume. Just make sure to push the changes to your Github. It may take a few moments for your page to render.
