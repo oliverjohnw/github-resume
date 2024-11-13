@@ -1,3 +1,7 @@
+For a real example of this repo and resume, visit the following:
+* Github: https://github.com/oliverjohnw/digital-cv
+* Resume: https://oliverjohnw.github.io/digital-cv/
+
 ### _Occupation Title_
 
 [Email](mailto:your_adress@email.com) / [GitHub](https://github.com/) / [LinkedIn](https://www.linkedin.com/feed/)
